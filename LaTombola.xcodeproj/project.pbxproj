@@ -15,6 +15,7 @@
 		2961F9EA1F1DE99000CD36F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2961F9E81F1DE99000CD36F5 /* LaunchScreen.storyboard */; };
 		2961F9F51F1DE99000CD36F5 /* LaTombolaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2961F9F41F1DE99000CD36F5 /* LaTombolaTests.m */; };
 		2961FA001F1DE99000CD36F5 /* LaTombolaUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2961F9FF1F1DE99000CD36F5 /* LaTombolaUITests.m */; };
+		2961FA0E1F1DE9B000CD36F5 /* 123.png in Resources */ = {isa = PBXBuildFile; fileRef = 2961FA0D1F1DE9B000CD36F5 /* 123.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2961F9FB1F1DE99000CD36F5 /* LaTombolaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LaTombolaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2961F9FF1F1DE99000CD36F5 /* LaTombolaUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LaTombolaUITests.m; sourceTree = "<group>"; };
 		2961FA011F1DE99000CD36F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2961FA0D1F1DE9B000CD36F5 /* 123.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 123.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		2961F9D91F1DE99000CD36F5 /* LaTombola */ = {
 			isa = PBXGroup;
 			children = (
+				2961FA0D1F1DE9B000CD36F5 /* 123.png */,
 				2961F9DD1F1DE99000CD36F5 /* AppDelegate.h */,
 				2961F9DE1F1DE99000CD36F5 /* AppDelegate.m */,
 				2961F9E01F1DE99000CD36F5 /* ViewController.h */,
@@ -249,6 +252,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2961FA0E1F1DE9B000CD36F5 /* 123.png in Resources */,
 				2961F9EA1F1DE99000CD36F5 /* LaunchScreen.storyboard in Resources */,
 				2961F9E71F1DE99000CD36F5 /* Assets.xcassets in Resources */,
 				2961F9E51F1DE99000CD36F5 /* Main.storyboard in Resources */,

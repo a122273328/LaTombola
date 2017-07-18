@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  LaTombola
+//  刮刮乐
 //
-//  Created by wzh on 2017/7/18.
-//  Copyright © 2017年 wzh. All rights reserved.
+//  Created by WZH on 16/7/7.
+//  Copyright © 2016年 WZH. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
